@@ -1,5 +1,7 @@
 # IGDB-Project-1
 
+__Summary__
+
 • Judah Esses 
 
 • Alex Gaujean
@@ -15,3 +17,5 @@
 4. Datetime
 
   We grabbed our data from the IGBD (Internet Game Database) API, using get requests, layed out all the data on DataFrames using pandas, and plotted the data using matplotlib. We also imported datetime to change the release dates of the video games from epoch unix to human readable. 
+
+__API Call__
